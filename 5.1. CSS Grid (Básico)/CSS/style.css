@@ -1,0 +1,18 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    color: #232323;
+    background-color: #f9f9f9;
+}
+
+
+.container {
+    display: grid;
+}
+
+.item {
+    border: solid 1px #232323;
+    background-color: #dddd;
+    text-align: center;
+    padding: 5px;
+}
